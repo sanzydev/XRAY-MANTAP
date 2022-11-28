@@ -24,6 +24,7 @@ wget -O xmenu "https://raw.githubusercontent.com/caliphdev/XRAY-MANTAP/main/menu
 wget -O auto-pointing "https://raw.githubusercontent.com/caliphdev/XRAY-MANTAP/main/menu/auto-pointing.sh"
 wget -O cek-port "https://raw.githubusercontent.com/caliphdev/XRAY-MANTAP/main/menu/cek-port.sh"
 wget -O xmenu "https://raw.githubusercontent.com/caliphdev/XRAY-MANTAP/main/menu/xmenu.sh"
+wget -O sslh-fix-reboot "https://raw.githubusercontent.com/caliphdev/Mantap/main/sslh-fix/sslh-fix-reboot.sh"
 
 #
 chmod +x /usr/bin/updatedll
