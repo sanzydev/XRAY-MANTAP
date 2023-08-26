@@ -6,10 +6,8 @@
 - ***Script XRAY Multi Port 443/80 By SL***
 - ***SCRIPT UNTUK MEMBUAT SERVER VPN***
 
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
-
 <p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=fisabiliyusri">
+<img height=21 src="https://komarev.com/ghpvc/?username=caliphdev">
 </p>
 <div height='45' align="center">
 <h2>Contact me: <br>
@@ -42,7 +40,7 @@
 
 # Aplikasi VPN (Android Only)
 * Link:
-https://github.com/fisabiliyusri/XRAY-FOR-ANDROID
+https://github.com/caliphdev/XRAY-FOR-ANDROID
 
 
 # OS 
@@ -62,14 +60,14 @@ https://github.com/fisabiliyusri/XRAY-FOR-ANDROID
 2. Pointing Dulu Domain Kamu, Kalo sudah pernah di pointing
    - Pergi ke dash.cloudflare.com,lalu pilih domain punya kamu, di tab TLS/SSL lalu pilih Overview, di tab TLS/SSL Harus pilih yang FULL
    - FULL (Encrypts end-to-end, using a self signed certificate on the server)✅
-   ![settinggambar1](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar1.jpg)
-   ![settinggambar2](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar2.jpg)
-   ![settinggambar3](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar3.jpg)
+   ![settinggambar1](https://raw.githubusercontent.com/caliphdev/XRAY-MANTAP/main/img/settingambar1.jpg)
+   ![settinggambar2](https://raw.githubusercontent.com/caliphdev/XRAY-MANTAP/main/img/settingambar2.jpg)
+   ![settinggambar3](https://raw.githubusercontent.com/caliphdev/XRAY-MANTAP/main/img/settingambar3.jpg)
    - Lalu pilih Edge Certificates disini kamu harus matikan Always Use HTTPS (Harus Mati/OFF)❌
-   ![settinggambar4](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar4.jpg)
+   ![settinggambar4](https://raw.githubusercontent.com/caliphdev/XRAY-MANTAP/main/img/settingambar4.jpg)
    - Buka tab Network di cloudflare kamu aktifkan WebSocket nya ✅
-   ![settinggambar5](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar5.jpg)
-   ![settinggambar6](https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/img/settingambar6.jpg)
+   ![settinggambar5](https://raw.githubusercontent.com/caliphdev/XRAY-MANTAP/main/img/settingambar5.jpg)
+   ![settinggambar6](https://raw.githubusercontent.com/caliphdev/XRAY-MANTAP/main/img/settingambar6.jpg)
 3. Setting Di Cloudflare Selesai
 # Cara Install Script Nya
 - Login ke VPS kamu ( wajib pake user ***root***)
@@ -117,7 +115,7 @@ EOF
 - maka proses install akan berjalan, jangan keluar dari vps
 - jika keluar dari vps saat lagi proses install,maka akan gagal
 ```
-wget https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/caliphdev/XRAY-MANTAP/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 6. jika sudah selesai,lalu ketik xmenu untuk menampilkan menu
 <p align="center">
